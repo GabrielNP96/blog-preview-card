@@ -63,6 +63,10 @@ h1 {
     font-size: 1.38rem;
 }
 
+h1:hover {
+    color:#FFD43B;
+}
+
 .content-text {
     color: #838383;
 }
