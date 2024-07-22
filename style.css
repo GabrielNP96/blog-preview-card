@@ -52,7 +52,6 @@ p, h1 {
     width: 80px;
     background-color: #FFD43B;
     padding: 4px;
-    font-family: 'FigTree';
 }
 
 .date {
@@ -60,7 +59,7 @@ p, h1 {
 }
 
 h1 {
-    font-size: 22px;
+    font-size: 1.38rem;
 }
 
 .content-text {
