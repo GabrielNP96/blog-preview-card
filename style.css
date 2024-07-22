@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Figtree';
+    src: url(fonts/Figtree-VariableFont_wght.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFD43B;
+}
+
+main {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF;
+    border: 1px solid black;
+    border-radius: 18px;
+}
+
+img {
+    padding: 18px;
+    border-radius: 36px;
+}
